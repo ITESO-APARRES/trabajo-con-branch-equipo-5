@@ -1,6 +1,9 @@
 TITULO
 CAPERUCITA ROJA
 
+Desenlace
+Y se murio.
+
 AUTORES
 DAVID 
 BRUNO
@@ -9,4 +12,4 @@ ANGEL
 FECHA
 01/11/21
 
-Desenlace
+
